@@ -18,8 +18,9 @@ This project demonstrates sending emails using Node.js, TypeScript, and Express 
 3. **Set up environment variables:**
    Create a `.env` file in the root directory and add your Gmail app password:
    ```
-   EMAIL=your-email@gmail.com
-   APP_PASSWORD=your-app-password
+   USER_EMAIL=your@email.com
+   PASS=<program password>
+   PORT=3000
    ```
 
 ## Usage
